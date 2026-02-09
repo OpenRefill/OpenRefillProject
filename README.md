@@ -21,8 +21,8 @@ Find out more at [openrefill.com](https://openrefill.com) and dive deeper with o
 
 
 ## Follow Us
-[LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true)
-Youtube link _(link to channel)_
+- [LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true)
+- Youtube link _(link to channel)_
 
 #openrefill
 #refillrevolution

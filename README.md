@@ -28,9 +28,9 @@ Youtube link _(link to channel)_
 #refillrevolution
 
 ## Credits
+#### Partners
 [Smartfill](https://smartfill.store/)
 
 #### Contributors
 #### Sponsors
-#### Backers
 ---

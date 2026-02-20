@@ -3,7 +3,7 @@ An open-source platform for refill and reuse dispenser systems.
 
 
 ## The Mission
-To accelerate the global shift away from single-use plastic by enabling open, low-cost refill dispensing systems that work across different hardware and settings, through open-source designs, shared standards, and collaboration.
+We want to accelerate the shift away from single-use plastic by enabling open, low-cost refill dispensing systems, through open-source designs, shared standards, and collaboration. Our focus is on personal care products (shampoos, conditioners, soaps, etc) that are sold to developing markets in sachets. 
 
 Find out more at [openrefill.com](https://openrefill.com) and dive deeper with our [further readings wiki](https://github.com/OpenRefill/OpenRefill/wiki/Further-Reading). 
 

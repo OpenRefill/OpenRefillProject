@@ -19,10 +19,17 @@ Find out more at [openrefill.com](https://openrefill.com) and dive deeper with o
 - Email us at hello@openrefill.com.
 - [openrefill.com](https://openrefill.com/)
 
-
 ## Follow Us
 - [LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true)
 
 #openrefill
 #refillrevolution
 
+## Original Contributors
+
+OpenRefill is a collaborative effort brought to life by industry leaders in smart logistics, digital innovation, and global sustainability:
+
+* **[Smartfill](https://smartfill.store)** – A leading global supplier of smart dispensers and cloud-based logistics and inventory management for bulk products.
+* **[DY|DX Digital](https://dydx.digital)** – A leading innovation consultancy.
+* **[TRANSFORM](https://www.transform.global/home.html)** – A joint initiative between Unilever, the UK Foreign, Commonwealth & Development Office (FCDO), and EY.
+* **[BOPINC](https://bopinc.org)** & **[Unilever Bangladesh](https://www.unilever.com.bd/)** – Strategic partners whose work on the **URefill** project provided foundational results for this initiative.

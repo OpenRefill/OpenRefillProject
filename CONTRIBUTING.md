@@ -31,8 +31,9 @@ One of the most valuable ways to contribute is by helping others.
 
 ### Build the Community in Your Country
 Rally the troops and spread the word! We are actively looking for local knowledge regarding:
-* Gathering and reporting on local **labeling requirements**.
-* Gathering and reporting on local **metrology (measurement) requirements**.
+* Gathering and reporting on local laws (labeling requirements, metrology (measurement) requirements, etc).
+* Sourcing regional suppliers and building an efficient supply network.
+* Developing viable business and operational models.
 
 If you can provide insights for your region, please start a thread in your country page. 
 Don't see your country? Please contact a team member, moderator or email us at hello@openrefill.com.
@@ -45,13 +46,6 @@ Made something cool? Customized your housing? Post it to our [show and tell disc
 ## Ideas
 
 Got an idea on how to bring the hardware cost down? Or an enhancement to improve the durability or sustainability of the unit? Post your concept on our [ideas discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/ideas). This allows the community to brainstorm, refine, and validate the idea.
-
----
-
-## Future Opportunities
-
-* **Join The Team:** To be announced.
-* **Business Side of Things:** To be announced. 
 
 ---
 

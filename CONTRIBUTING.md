@@ -11,6 +11,8 @@ Please note that by downloading and using the files (designs, firmware, document
 3. Any ideas to bring the cost down or increase the durability of the dispenser unit? Post your concept on our [ideas discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/ideas).
 4. Answer any questions in our [Q&A discussion page](https://github.com/OpenRefill/MainProject/discussions).
 
+---
+
 ## Build & Commercialise 
 
 We are looking for makers, builders and entrepreneurs to build and commercialise OpenRefill dispensers in their own markets. We provide the foundation; you build the business. 
@@ -27,15 +29,11 @@ Share your solutions and insights, by referring to the below sections.
 * Found a new bug? Submit a [new issue](https://github.com/OpenRefill/MainProject/issues) so we can track and fix it. Include detailed descriptions and use the correct tags and categories.
 * Post your enhancements to the [show and tell discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/show-and-tell). 
 
----
-
 ## Documentation
 
 Great hardware requires great documentation. 
 
 If you have any suggested fixes or enhancements for our guides, manuals, SOPs, or command protocols, please submit a [new issue](https://github.com/OpenRefill/MainProject/issues) so we can track and fix it. Include detailed descriptions and use the correct tags and categories.
-
----
 
 ## Community & Localization
 
@@ -55,8 +53,6 @@ Don't see your country? Please contact a team member, moderator or email us at h
 
 ### Show and Tell
 Made something cool? Customized your housing? Post it to our [show and tell discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/show-and-tell).
-
----
 
 ## Ideas
 Got an idea on how to bring the hardware cost down? Or an enhancement to improve the durability or sustainability of the unit? Post your concept on our [ideas discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/ideas). This allows the community to brainstorm, refine, and validate the idea. From here we'll create a new issue for the feature or enhancement. 

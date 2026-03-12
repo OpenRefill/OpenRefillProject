@@ -4,12 +4,7 @@ Thank you for considering contributing to OpenRefill! It’s community involveme
 
 ## Contributing Back
 
-Please note that by downloading and using the files (designs, firmware, documentation) you are automatically binded to the terms of our [licence](https://github.com/OpenRefill/MainProject/blob/main/LICENCE.md). This means that any enhancements you made or bugs fixed have to be shared with the community. 
-
-1. Review the [open issues](https://github.com/OpenRefill/MainProject/issues) to see if your work fixed a bug, contributed to a feature or completed a task? Please comment and discuss your solution.   
-2. Found a new bug? Create a [new issue](https://github.com/OpenRefill/MainProject/issues) so we can track and fix it. Include detailed descriptions and select the correct tags and type.
-3. Any ideas to bring the cost down or increase the durability of the dispenser unit? Post your concept on our [ideas discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/ideas).
-4. Answer any questions in our [Q&A discussion page](https://github.com/OpenRefill/MainProject/discussions).
+Please note that by downloading and using the files (designs, firmware, documentation) you are automatically binded to the terms of our [licence notice](LICENCE-NOTICE.md). By submitting a contribution (for example, through a pull request, email, or open issue), you unconditionally and irrevocably agree to the terms of our [contributor licence agreement](CLA.md). 
 
 ---
 
@@ -25,9 +20,12 @@ Share your solutions and insights, by referring to the below sections.
 
 ## Hardware & Firmware
 
-* Review our [open issues](https://github.com/OpenRefill/MainProject/issues) and see where you can imporve our build or solve an existing bug. 
-* Found a new bug? Submit a [new issue](https://github.com/OpenRefill/MainProject/issues) so we can track and fix it. Include detailed descriptions and use the correct tags and categories.
-* Post your enhancements to the [show and tell discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/show-and-tell). 
+1. Clone our main branch, help engineer a BOM below $35 per product dispensed and submit a pull request. 
+2. Review the [open issues](https://github.com/OpenRefill/MainProject/issues) to see if your work fixed a bug, contributed to a feature or completed a task? Please comment and discuss your solution.   
+3. Found a new bug? Create a [new issue](https://github.com/OpenRefill/MainProject/issues) so we can track and fix it. Include detailed descriptions and select the correct tags and type.
+4. Any ideas to bring the cost down or increase the durability of the dispenser unit? Post your concept on our [ideas discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/ideas).
+5. Answer any questions in our [Q&A discussion page](https://github.com/OpenRefill/MainProject/discussions).
+6. Post your enhancements to the [show and tell discussion page](https://github.com/OpenRefill/MainProject/discussions/categories/show-and-tell). 
 
 ## Documentation
 

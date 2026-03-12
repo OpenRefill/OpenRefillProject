@@ -1,16 +1,3 @@
-# Licenses
-
-The OpenRefill hardware designs, firmware, and documentation are provided with the intent of maximum openness. You have the freedom to use, modify, and distribute these materials for any purpose, including commercial applications, **provided that any enhancements or bug fixes are contributed back to the project to benefit the entire community.** 
-
-By downloading and using the files (designs, firmware, documentation) you are automatically binded to the terms of our licenses. Read the [contributing](https://github.com/OpenRefill/MainProject/blob/main/CONTRIBUTING.md) guide on how to contribute back.
-
-
-| Material Category | Typical Materials Covered | Licence | Identifier |
-|---|---|---|---|
-| **Hardware design materials** | CAD files, PCB layouts, electrical schematics, bills of materials (BOMs), enclosure designs, mechanical part files, manufacturing and assembly drawings | CERN Open Hardware Licence v2 – Weakly Reciprocal | CERN-OHL-W-2.0 |
-| **Firmware / released software** | Embedded device firmware and on-device control/configuration scripts (no app, backend, or cloud code) | Mozilla Public License 2.0 | MPL-2.0 |
-| **Documentation** | Assembly manuals, user guides, maintenance guides, training materials, technical notes, replication playbooks | Creative Commons Attribution-ShareAlike 4.0 International | CC-BY-SA-4.0 |
-
 # CERN-OHL-W-2.0
 ### Preamble
 

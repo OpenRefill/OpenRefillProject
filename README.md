@@ -32,3 +32,4 @@ OpenRefill is a collaborative effort brought to life by industry leaders in smar
 * **[DY|DX Digital](https://dydx.digital)** – A leading innovation consultancy.
 * **[TRANSFORM](https://www.transform.global/home.html)** – A joint initiative between Unilever, the UK Foreign, Commonwealth & Development Office (FCDO), and EY.
 * **[BOPINC](https://bopinc.org)** & **[Unilever Bangladesh](https://www.unilever.com.bd/)** – Strategic partners whose work on the **URefill** project provided foundational results for this initiative.
+* **[Wizkit](https://www.linkedin.com/company/wizkitglobal/posts/?feedView=all)** - Wizkit supported the testing, deployment and maintenance of a fleet of machines in Dhaka stores during the initial **URefill pilots**. 
